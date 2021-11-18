@@ -17,7 +17,7 @@ app.config.update({
     'suppress_callback_exceptions': True,
 })
 
-global_factor_1 = 7
+global_factor_1 = 4
 factor_2 = random.randint(1,12)
 
 app.layout = html.Div(
